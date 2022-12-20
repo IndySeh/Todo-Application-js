@@ -8,3 +8,7 @@ A Simple Todo Application using vanilla javascript
 - OnChange
 - Arrays
 - map()
+- Remove ParentNode from DOM
+- Using Material Icons
+- If/else
+- Flexbox
