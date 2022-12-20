@@ -3,7 +3,7 @@
 A Simple Todo Application using vanilla javascript
 
 ### Concepts Covered in the projects
-- Eventlister
+- Eventlistener
 - Audio files
 - OnChange
 - Arrays
