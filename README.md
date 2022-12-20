@@ -6,7 +6,7 @@ A Simple Todo Application using vanilla javascript
 
 
 
-#### Concepts Covered in the projects
+#### Concepts Covered in the project
 - Eventlistener
 - Audio files
 - OnChange
